@@ -1,103 +1,42 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5f205b3a-73c2-472c-b052-82b95bdf36b7/deploy-status)](https://app.netlify.com/sites/sleepy-bhabha-00eedf/deploys)
+# README
+우먼테크메이커스 2019 한국 장학생들이 만들고 관리하는 블로그입니다.
+Jekyll-powered, Jekflix-theme (아래 Theme Customization 섹션 참고) 웹사이트입니다.
 
-# Jekflix Template
+## 글 업로드 가이드
+1. _authors/ 폴더 내에 이름_성.md 파일 추가 및 내용 채워 넣기.
+2. _posts/ 폴더 내에 year-month-day-title.md 파일 추가 및 내용 채워 넣기.
+3. image 업로드하고 싶을 때는 구글 포토 앨범에 추가하기.
+4. 로컬에서 작동 확인할 때는
+    ```
+    npm install
+    gulp
+    ```
 
-Version 2.0 is [here](https://github.com/thiagorossener/jekflix-template#v200)! 🎉🎊
+## 파일 구조 가이드
+* src/yml/: 사이트 테마 설정 파일들
+* pages/about.md: 사이트 소개 페이지
+* 기타 등등
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+## 주의사항
+* master 브랜치로 force push 막아놓긴 했는데 잘 되었는지는 잘 모르겠어요. 아무튼 force push는 하지 마셔요~
+* commit을 깃헙에 올리면 나중에 rebase를 하더라도 찾고자 한다면 과거 기록을 다 찾아낼 수 있으므로 **커밋하기 전에** 민감한 개인 정보를 작성한 것은 아닌지 꼭 확인하고 올리세요! 특히 authors.yml에 글쓴이 등록할 때 실명으로 안 하고 싶다면 필명으로, web, email, image 등 공개하고 싶지 않은 개인 정보는 올리지 마셔요~ 앗, 근데 생각해보니 누가 커밋했는지는 나오겠네요...
+* 커밋할 때, 커밋의 내용을 잘 담은 적절한 **커밋 메시지** 작성 부탁합니다!
+* 본인 글을 올릴 땐, PR 없이 바로 마스터 브랜치로 커밋해도 괜찮을 것 같아요 (PR로 해도 되구요).
+* 만약 다른 사람 글에서 오타 등의 수정 건의 사항 있으면 PR 올리고 글쓴이의 리뷰를 요청하는 방식으로 하면 좋을 것 같아요.
+* 이미지 사용시 저작권 등에 주의! (저작권 가이드라인이 있는지 등 확인 후 사용)
+* convention은 저희끼리 해보면서 또 정해봅시다. :)
 
-See the [demo here](https://jekflix.rossener.com/).
+## Theme Customization
+* forked from [Jekflix](https://github.com/thiagorossener/jekflix-template) && then customized.
+* See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize your theme colors, layout, titles and more.
 
-## What is it?
-
-A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
-
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
-
-## Features
-
-- [Live Search](https://github.com/thiagorossener/jekflix-template/wiki/Features#live-search)
-- [Estimated Reading Time](https://github.com/thiagorossener/jekflix-template/wiki/Features#estimated-reading-time)
-- [Reading Progress Bar](https://github.com/thiagorossener/jekflix-template/wiki/Features#reading-progress-bar) *(optional)*
-- ["New Post" tag](https://github.com/thiagorossener/jekflix-template/wiki/Features#new-post-tag)
-- [Load images on demand](https://github.com/thiagorossener/jekflix-template/wiki/Features#load-images-on-demand)
-- [Push Menu](https://github.com/thiagorossener/jekflix-template/wiki/Features#push-menu)
-- [SVG icons](https://github.com/thiagorossener/jekflix-template/wiki/Features#svg-icons)
-- [Shell script to create posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#shell-script-to-create-posts)
-- [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/Features#tags-page)
-- [About page](https://github.com/thiagorossener/jekflix-template/wiki/Features#about-page)
-- [Contact page](https://github.com/thiagorossener/jekflix-template/wiki/Features#contact-page)
-- [404 error page](https://github.com/thiagorossener/jekflix-template/wiki/Features#404-error-page)
-- [Feed RSS](https://github.com/thiagorossener/jekflix-template/wiki/Features#feed-rss)
-- [Disqus](https://github.com/thiagorossener/jekflix-template/wiki/Features#disqus) *(optional)*
-- [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/Features#featured-post) *(optional)*
-- [Home page pagination](https://github.com/thiagorossener/jekflix-template/wiki/Features#home-page-pagination) *(optional)*
-- [Posts sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar) *(optional)*
-- [Paginated posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#paginated-posts) *(optional)*
-- ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/Features#before-you-go-modal) *(optional)*
-- [Post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/Features#post-recommendation)
-- [Netlify CMS ready](https://github.com/thiagorossener/jekflix-template/wiki/Features#netlify-cms-ready)
-
-## SEO
-
-- Google Analytics
-- Meta tags
-- JSON-LD
-- Sitemap.xml
-- Social Media ready
-
-## Setup
-
-- [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
-- [Installing template](https://github.com/thiagorossener/jekflix-template/wiki/setup#installing-template)
-- [Running local](https://github.com/thiagorossener/jekflix-template/wiki/setup#running-local)
-
-## Customization
-
-See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize your theme colors, layout, titles and more.
-
-## Posts
-
-You can create posts manually using the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) or automatically using the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post).
-
-## Release notes
-
-### v2.0.0
-- Added optional [sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar)
-- Added optional [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/features#featured-post)
-- Added optional ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/features#before-you-go-modal)
-- Added optional [post pagination](https://github.com/thiagorossener/jekflix-template/wiki/features#paginated-posts)
-- Added [post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/features#post-recommendation)
-- Added meta keywords to improve SEO
-- Added JSON-LD to improve SEO
-- Changed pagination to be [optional](https://github.com/thiagorossener/jekflix-template/wiki/features#home-page-pagination)
-- Improved [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/features#tags-page)
-- Cleaned up and improved [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties)
-- Set up [Netlify CMS](https://github.com/thiagorossener/jekflix-template/wiki/features#netlify-cms-ready)
-- Improved customization settings
-- Minor design updates
-
-### v1.0.1
-- Fixed bugs
-- Upgraded to Gulp 4
-
-### v1.0.0
-- Initial release
-
-## Questions?
-
-File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
-
-## Donation
-
-Did you like my work? Buy me a beer 😁🍺
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
-
-## Author
-
+### Author
 [Thiago Rossener](https://rossener.com/)
 
-## License
+### License
 
 *Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+
+### Posts
+
+You can create posts manually using the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) or automatically using the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post).
