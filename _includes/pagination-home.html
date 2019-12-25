@@ -7,7 +7,7 @@
     {% endif %}
     <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
+        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next" onclick="ga('send', 'event', 'pagination', 'click', 'page next')">
             <svg><use xlink:href="#icon-arrow-right"></use></svg>
         </a>
     {% endif %}
