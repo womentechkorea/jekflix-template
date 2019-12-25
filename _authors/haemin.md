@@ -1,11 +1,11 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mina
-display_name: 김민아
-position: software engineer
-bio: happy dreamer 입니다! :) 하하하하
-github_username: coder-mina
+name: haemin
+display_name: 김혜민
+position: 
+bio: 
+github_username: 
 facebook_username: 
 twitter_username: 
 instagram_username: 
