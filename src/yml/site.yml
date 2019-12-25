@@ -1,12 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Awesome WomenTechmakers
+title: WomenTechmakers Korea 2019
+description: This is blog run by womentechmakers scholars 2019 Korea. (Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.)
 tags:
   - blog
-  - template
+  - womentecmakers
+  - wtm
   - jekyll
-  - theme
   - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
+paginate: 9
