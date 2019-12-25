@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: doyeon
+name: doyeon_lim
 display_name: 임도연
 position: 
 bio: 

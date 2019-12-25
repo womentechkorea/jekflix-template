@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mina
+name: mina_kim
 display_name: 김민아
 position: software engineer
 bio: happy dreamer 입니다! :) 하하하하

@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: haemin
+name: haemin_kim
 display_name: 김혜민
 position: 
 bio: 
