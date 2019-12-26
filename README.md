@@ -11,9 +11,10 @@ Jekyll-powered, Jekflix-theme (아래 Theme Customization 섹션 참고) 웹사�
     npm install
     gulp
     ```
+5. 너무 짧은 시간 간격을 두고 업데이트를 하면, 웹사이트가 안 바뀐 것처럼 보일 수도 있는데 그럴 때는 캐시에 저장되어있던 걸 보여줘서 그럴 가능성이 높으니 웹 브라우저 캐시를 지우고 다시 확인해보아요.
 
 ## 파일 구조 가이드
-* src/yml/: 사이트 테마 설정 파일들
+* src/yml/: 사이트 테마 설정 파일들 (이 안을 수정하면 gulp를 해야 바깥에 있는 _config.yml도 수정이 되니까 빼먹지 말도록!)
 * pages/about.md: 사이트 소개 페이지
 * 기타 등등
 
