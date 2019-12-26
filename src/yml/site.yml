@@ -1,13 +1,16 @@
 name: Awesome WomenTechmakers
 title: WomenTechmakers Korea 2019
-description: This is blog run by womentechmakers scholars 2019 Korea. (Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.)
+description:
+  - 우먼테크메이커스 장학생들이 자율적으로 운영하는 웹 사이트입니다.
+  - Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
-  - womentecmakers
+  - womentechmakers
+  - 우먼 테크메이커스
+  - 장학생
   - wtm
   - jekyll
-  - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
-paginate: 9
+paginate: 12
