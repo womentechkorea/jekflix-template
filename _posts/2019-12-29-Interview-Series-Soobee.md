@@ -18,7 +18,7 @@ image: "https://lh3.googleusercontent.com/2IBa2R29VOZJcQjafBN8hLAtyjzO8Ij9Ksz3Lu
    안녕하세요, 부경대학교 4학년 이수비입니다. 현재 물리학과 컴퓨터 공학을 복수전공 하고 있습니다.
 
 
-<span style="color:RoyalBlue"> **-	물리학을 복수 전공하신다니! 특이한 이력인 것 같아요. 그렇게 전공을 정하신 이유가 있나요?** </span>
+<span style="color:RoyalBlue"> **물리학을 복수 전공하신다니! 특이한 이력인 것 같아요. 그렇게 전공을 정하신 이유가 있나요?** </span>
 
   사실 큰 이유는 없습니당ㅎㅎ 고등학교때 배웠던 것 중에 가장 재밌었던 걸로 맞춰서 대학을 지원하게 되었어요!
 
