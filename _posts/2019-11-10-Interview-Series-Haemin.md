@@ -5,7 +5,7 @@ title: "[Interview] 2nd WTM scholar, Haemin"
 subtitle: "Google WTM 장학생 #2, 김혜민"
 tags: [WTM, scholarship, interview, computer vision, computer graphics]
 author: doyeon_lim
-image: 
+image: "https://lh3.googleusercontent.com/Gh_aI0DG-Hj5lbPprmqpKhk5zTfsVUgDmYwzuuUJV1oGkvUqB-FJSKX_mHQu7yUXc5lYnCpBBPmhhcBAoXYUmSPowoKPxxOfqq012YPYKuvzs9b6jp6QpBwqNHJT6stIO_5uOgQQgD1iKybf5WkK-YL78wR8nxrpeaY3pW2NMlBQOfKWb1Vdo0bQpyXUvGyk2XxwMJBFJHBvWcBxOWcnzgwIYRtT58YPNpdSOupxgQZb9Zv_v8G5FB1Klb6i5KUbSwh5uTMBJdDDxslbxC_dmywBBwiYXE5r7AjDpNW8FMq0BFpaz7f0o1rioRl7tCrH6F9g17hq9_Mbh5d-H_4dJDXl6gOeFhcevVkIRzOIaRI4jEnFC5kBywtAxwznZfXIwSaFEjV6hI05VGBNDp4AjlKgIn1vTOMJOS7nyrnVMi4IQZt06sw72ST-rL3QRSXFmGSwDRI-gTcxDWBA9jsvC53Ql66kxX0mDFgCB6k9bByRHVmkKkg8R-CTjnmq7DkF7yoy1307QLCYryVUJZHoDtM1z9YPgbXmy3EsxB7Y9mybSsLXTmF0NOu4wYv5EOiTUkmf5T_8Ns6DteE-9Bsdhta2b6vKghjMgEpdjfoEFFdHUiJ9Ni7cvFnv0A1gESw4VDyTqm5T6QJNbcluD2X1CwUjwLkwJKmm_UGRJqCfmHiFZKbP-24ilx-6xcQ12c7yd3uHXLPn9pidiBlAEQ07vYNmw5zM8PYaZ7Z_L7-7dy_AusE=w927-h869-no"
 ---
 
 **[특집 인터뷰]** *11명의 Women TechMakers 2019 장학생들을 대상으로 한 인터뷰 시리즈입니다. Women TechMakers는 전세계 테크 분야 여성들의 커뮤니티로 Google 의 후원을 받아 운영되고 있습니다. 매년 전 세계 여성 CS학생들을 대상으로 장학생을 선발하여 미래 과학기술자를 육성하는 장학프로그램을 주관합니다. 미래 연구자 및 엔지니어로서의 삶과 WTM 장학생이 되기까지의 여정을 함께 읽어보세요. (https://www.womentechmakers.com/)*
