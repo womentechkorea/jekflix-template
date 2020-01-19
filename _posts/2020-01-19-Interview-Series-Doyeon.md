@@ -173,4 +173,4 @@ image: "https://lh3.googleusercontent.com/FvOhS85abF0rpBp28AU41CcAqaLN1cuwnSVLwv
 
 <span style="color:DarkGreen "> **긴 인터뷰 응답해주셔서 감사합니다! 혹시 추가로 여쭤보고 싶으면 연락드려도 될까요?** </span>
 
-dyklim@gmail.com 으로 연락주세요:)
+https://blog.naver.com/blueto14 제 블로그에 글 남겨주시거나 dyklim@gmail.com 으로 연락주세요:)
