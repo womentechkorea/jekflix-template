@@ -1,5 +1,5 @@
 ---
-date: 2020-01-19
+date: 2020-01-26
 layout: post
 title: "[Interview] 11th WTM scholar, Min A"
 subtitle: "Google WTM 장학생 #11, 김민아"
