@@ -1,7 +1,7 @@
 ---
 date: 2020-01-19
 layout: post
-title: "[Interview] 10th WTM scholar, Min A"
+title: "[Interview] 11th WTM scholar, Min A"
 subtitle: "Google WTM 장학생 #11, 김민아"
 tags: [WTM, scholarship, interview, research intern, HCI]
 author: doyeon_lim
