@@ -3,7 +3,7 @@ date: 2019-12-11
 layout: post
 title: "카이스트 정신과 서재_#6 그들만 알았던 부와 행복의 5가지 절대 도구TOOLS"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/t89vXxQ9DfxpEE6qjZdLyaNvxyJf1GYXeQt3ONGpvayFoyis3z0EwUGws3DzttTWujxCTJTyXRenhWFrQbBfZrNM7zhxN4pu10jnffFl6E5BL4fi2Zp0Df02-EGOTHCTWZ-7VZa31JnqOEYpcsODReD0QPD9gIISYCjanoJcz6xN5N32mXeF2VKlBhiza6F5S0hoNRpsMA-SOjf_eTyPRvTlUdy-iixXkZvChKYNfZkxhoMEF9kFbOQ-R_yO4rRJaKVNL9HjaIbuCcL6-9AyHy9f0U9vHhsOrH33wqd469KSofJOOv3E5-7qCE3EmQYmhR6fDpJdMo_ptyjKNdNQCbwCjgHwJ3X2CaM9VaAtzZb0Pw8Q20VdGn0Uiay5KRn_AmmbBflfkx4w-GUxkQCrZVHQqHfqwSCG60eWxpadtpSoff-8soijdqW99YktLFwsKXRcWFlYU1rdf8HEvjMOMIWQM_po_hJOrT5U0Ju7PBcDzXD_e7ozeEhK-8evLAxOzXalv1GAkZw-FuB2MP4RsynuzXVmxX2dQfXq280HyEVRjdDoZ_ZFzd9dAoRByrvl1eUr21wNkAc7_9pih5HXtZubX6mJtnwEM9q9WE-0x_dUxT-9AzFpUrXTypHLOcwJQKs8us_AgtpLj8qM-oGz6Rcq0CP9QzFLElrQQKWeKwUDbcMnCamevWzh=w480-h694-no"
 ---
