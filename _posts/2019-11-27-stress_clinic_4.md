@@ -3,7 +3,7 @@ date: 2019-11-27
 layout: post
 title: "카이스트 정신과 서재_#4 사람풍경"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/bMqu39x7929B5hpoVDL5i61O67j-bnK8Uc6m81kSDNXfDjyTh9YoXH3T02egrBRtozl4PDPOkKR1lFFUupCPWCFmFaBKmqKZRwwp2cXYi7ac_xQggMUZ3BFyf2qs1bAMS9_l46rP5jMBLuPdLzfxtTcStwHUBIznRfoYgykPL9K3Em9GBBCpH6uQUYqPzuhJ6remv59ynRC5OJQ21xW0ggy0eqKvD9KirGVyRTilWB4jxF_qwIY7x6bUCnys2H9-5gdCU2EB4qhbhK1wm26MAHpfWpPJysY1oHCiZ4l4zZ35PDuqyXN_hlZNf7pYNQ700es9U4WpvQnLjARojWmf3iGa3iPPORa9az7iQ9i1_xwEbjNBniU1u27Xg83wacpP-G2fyyzXB43vWMdv_W9NmGhYZ-GleJvZ1g4cJrFRmCi_HE3GNke2477f1wIejTtJtfN1_nyr5WVasHjLGDRnoDZjU_-Tgmbo1VCryAelMt_rHHJDIHu9TrxgLfX4NBtJ-VDqWYoGlGixjTc-F-3pOcx4Z7iXL0K_wQeYOJyYJBBFC2x_vSybgfIhUCbb_UUNUDLtAfHUSLS6oQGmLQ2MYDd6vT8G7P-MUMiuhWikw3yEpuculAQ81m3EuqIiXJt40Ipkpd_YEvJpAB2SqsNOMi7b5sMDsKAQzVViJOPpv5Kk2pvitWCL7BiB=w151-h220-no"
 ---
