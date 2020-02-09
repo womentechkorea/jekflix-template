@@ -1,9 +1,9 @@
 ---
 date: 2019-12-01
 layout: post
-title: "[Interview] 5th WTM scholar, Daye"
+title: "[인터뷰 시리즈] 5번째 WTM 장학생, 김다예"
 subtitle: "Google WTM 장학생 #5, 김다예"
-tags: [WTM, scholarship, interview, women right, team project, minority]
+tags: [WTM장학생, 인터뷰, 여성인권, 팀프로젝트, 소수자]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/ELC7YXAsUOd-wxBaChcDrWTU4YtMyjJyGdCp9XXfzc8LEez3LptSGOxQo1s9XZ4Ozl3t5qeEQDsLyfxxbepMExbweGCjvO1xwSEOyCWk6EiOy4VS_MWGD3eIhWtfEEjwSNT_-a-qtSH-MPotLxhVt5KaAwBy8KA9_aPZfUwaVx-CazpEJINsGfyiYNnc9TQi1ASyByBzzoJUCNdd5o80sXbq0zTxgWxXCcgEYwkUb-ypWMQphByKn32tqT8Tc0T4D5_qzptcHScvoKaEubbgVY4wjP-u0Rjx0kdfG7N9xYdFvf2I3BIGFyw1DvemyWVqSuF3VMVkBcnXLB2Zbrt8IUdHRPOVlxLhHtQTapgyLT2ZXCQG824hHJ7T_X5Hiyq6DwGpSIdp9uUf4BJzLCr13CyOmDxu-8i7c77EAnNj2S2GG55Z6byAEZNAfz0XFfzwkz-mU7Seej-r8Y1MbEVBxd3BANnvTKeoLMsCu2N2AyINPP_VCEtyvDr4poded7TasTB9M1i6osRWEXpHZH6VMZZbygDn2mN0Lp4IW4W3xFmORy9WfGrDboASDOXMkgWIjMAw2k38ckvLRRRFKzrEzESzw47MHueCCRBtVmnErJsle0fjQ4-bdnqpr91icyGijO0VAbcMguXeB6SDy2gWStxuyN6wLlksaX75afW9Nnq5sP29ZiRk49qYeYilfG17Uqmrj2bJLJPFSpCoF1sJgaOa1-pX_SMVnDDnnaX46wQvotA=w927-h869-no"
 ---
