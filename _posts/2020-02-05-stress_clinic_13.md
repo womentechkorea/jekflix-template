@@ -3,7 +3,7 @@ date: 2020-02-05
 layout: post
 title: "카이스트 정신과 서재_#13 마틴 셀리그만의 긍정심리학"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/proxy/lsNgo_6T2iZNrmFx6Eb7_vH-X5VUXSg87dUkZE7yiktDoJfdB7RGT9HVdEgb7M0YxRSDdzbaEstTB3eOH1T0wjvjwuFdDJAuBcIJI260IlMT_EqJwA"
 ---
