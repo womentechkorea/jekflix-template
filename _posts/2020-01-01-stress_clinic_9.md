@@ -3,7 +3,7 @@ date: 2020-01-01
 layout: post
 title: "카이스트 정신과 서재_#9 대학교수가 된 ADHD소년 리틀 몬스터"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "http://blogfiles.naver.net/MjAxOTA5MDVfMTg3/MDAxNTY3NjY4NDcyNjYw.sJLhKR4_FWD0YJhaDvkQEt-5VZprXT6wRpCmS44ON1Qg.CKmQ9wini8xMarDjWjrxKYDYf3WL5UbN_pn9uE7sne4g.JPEG.138100/%C4%B8%C3%B3.JPG"
 ---
