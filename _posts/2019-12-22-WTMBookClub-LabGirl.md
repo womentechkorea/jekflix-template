@@ -1,9 +1,9 @@
 ---
 date: 2019-12-22
 layout: post
-title: "[BookClub] Lab Girl, Hope Jahren"
+title: "[북클럽] 랩 걸, 호프 자렌"
 subtitle: "2019.10.18 WTM Book Club Discussion"
-tags: [WTM, bookClub, labGirl, discussion]
+tags: [WTM, 랩걸, labgirl, 책리뷰, 호프자렌, 독서토론]
 author: haemin_kim
 image: "https://lh3.googleusercontent.com/C0wlcApWV82mIpWjgJnxWqdni3giBe8o9OwVYdFYVO9AoDXcTVXPDUoVOEibHek3LF2eabIGS8GprVCb93MhhmZr_jBiSoAVJ0T3FSdNiL-v7bWKkDiSatyb8EuoWLZIfKh_bVYkq6sT5Ai9WNMqmpKBKgOIBLhHQxyNq25Dgqei0xJSa6zU0TdVNWUbs1NH-0TS9ca5jbxVHbhsCquiFevIm7U3JLHODRQtAT3TNZqjR6QktlyTwBAtB0Ipf6tw_rDD11iOIh1Ar0ydzmpTohh6GoTrW2CvpJ4zH73wugNV_pbwUvke406d_AbrpUqljpmAC0VQRMIJsLin6cvn861gGx5Dt85aFBzWPEm3ELsXoBFBUWYJVhI-SG-JfWxqYONhun7JvmfLi9JXaBjPNpvo9i_9lKtk0r5r7hd9e6vj1IsN7IyTptHymi8H_VwcGZZ4vo9SW6ziQ8MAf9PLVa8AVW8KKQvCDra8n20tNf5lFJ9uHkbbKhieT1Q5YZYap9TBiaRzhpVW5qAdjgjYV_Q5dXdLtayobNbJnSiyh0Ym_hMRc4ZzK7hFzQoocTV-jlNfz-OrjiIZKmjTsT6x7-c01uL5V5izqw3xcS-nuispfbSdfkcTXC8HmD4CeHVM016A8CEY-dwCxPG3G7eG9ljOFUfd_1QQaL_c88LhKy_tnC9SwZl7kPTe=w145-h238-no"
 ---
