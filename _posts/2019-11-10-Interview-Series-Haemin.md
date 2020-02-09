@@ -1,9 +1,9 @@
 ---
 date: 2019-11-10
 layout: post
-title: "[인터뷰 시리즈] 2번째 WTM 장학생, 김혜민"
+title: "[Interview] 2nd WTM scholar, Haemin"
 subtitle: "Google WTM 장학생 #2, 김혜민"
-tags: [WTM, WTM 장학생, 컴퓨터 비전, 컴퓨터 그래픽스, 컴퓨터공학]
+tags: [WTM, scholarship, interview, computer vision, computer graphics]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/Gh_aI0DG-Hj5lbPprmqpKhk5zTfsVUgDmYwzuuUJV1oGkvUqB-FJSKX_mHQu7yUXc5lYnCpBBPmhhcBAoXYUmSPowoKPxxOfqq012YPYKuvzs9b6jp6QpBwqNHJT6stIO_5uOgQQgD1iKybf5WkK-YL78wR8nxrpeaY3pW2NMlBQOfKWb1Vdo0bQpyXUvGyk2XxwMJBFJHBvWcBxOWcnzgwIYRtT58YPNpdSOupxgQZb9Zv_v8G5FB1Klb6i5KUbSwh5uTMBJdDDxslbxC_dmywBBwiYXE5r7AjDpNW8FMq0BFpaz7f0o1rioRl7tCrH6F9g17hq9_Mbh5d-H_4dJDXl6gOeFhcevVkIRzOIaRI4jEnFC5kBywtAxwznZfXIwSaFEjV6hI05VGBNDp4AjlKgIn1vTOMJOS7nyrnVMi4IQZt06sw72ST-rL3QRSXFmGSwDRI-gTcxDWBA9jsvC53Ql66kxX0mDFgCB6k9bByRHVmkKkg8R-CTjnmq7DkF7yoy1307QLCYryVUJZHoDtM1z9YPgbXmy3EsxB7Y9mybSsLXTmF0NOu4wYv5EOiTUkmf5T_8Ns6DteE-9Bsdhta2b6vKghjMgEpdjfoEFFdHUiJ9Ni7cvFnv0A1gESw4VDyTqm5T6QJNbcluD2X1CwUjwLkwJKmm_UGRJqCfmHiFZKbP-24ilx-6xcQ12c7yd3uHXLPn9pidiBlAEQ07vYNmw5zM8PYaZ7Z_L7-7dy_AusE=w927-h869-no"
 ---
@@ -40,7 +40,8 @@ image: "https://lh3.googleusercontent.com/Gh_aI0DG-Hj5lbPprmqpKhk5zTfsVUgDmYwzuu
 
 <span style="color:RoyalBlue"> **컴퓨터 비전, 그래픽스는 무엇을 연구하는 분야인가요?** </span>
 
-컴퓨터 비전은 컴퓨터가 사람처럼 사물을 구별하고, 인식할 수 있도록 하는 분야이고, 그래픽스는 영화에 쓰이는 사실적인 3D 표현이나, 디즈니 같은 스튜디오들에서 만드는 애니메이션을 연구하는 분야입니다.
+컴퓨터 비전은 컴퓨터가 사람처럼 사물을 구별하고, 인식할 수 있도록 하는 분야이고, 그래픽스는 3D
+표현을 연구하는 분야입니다.
 
 <span style="color:RoyalBlue"> **앞으로 해보고 싶은 일이 있으시다면...?** </span>
     
