@@ -3,16 +3,8 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: doyeon_lim
 display_name: 임도연
-position: 
-bio: 
-KAIST IR&NLP 연구실 석사
-UNIST 생명과학 및 전자공학 학사
-고등학교 대표 서울학생상 수상
-염광고등학교 (일반고) 졸업
-
-무대 서는 것을 좋아하고, 사람들과 교류하기를 좋아합니다:)
-interview: https://womentechkorea.github.io/Interview-Series-Doyeon/
-
+position: KAIST IR&NLP 연구실 석사
+bio: 무대 서는 것을 좋아하고, 사람들과 교류하기를 좋아합니다:)
 github_username: 
 facebook_username: 
 twitter_username: 
