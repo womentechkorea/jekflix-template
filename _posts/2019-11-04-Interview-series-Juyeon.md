@@ -3,19 +3,18 @@ date: 2019-11-04
 layout: post
 title: "[Interview] 1st WTM scholar, Yoon Juyeon"
 subtitle: "Google WTM 장학생 #1, 윤주연"
-tags: [WTM, scholarship, interview, startup, intern, software_engineering, blogger]
+tags: [WTM 장학생, 인터뷰, 스타트업, 인턴, 연구]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-11Z3as3wIseu7_SltcWjnc9Nh1mAQDWVHyuWLbBYYlVD5xBUnBJGZ8yxZvD6q8PqORZXRQNgOv_nnfq2f9Gdf_IbGifXgqPkxS9wfPRNC43YPTrlbMMSrbERJUH-9vruwzRftWMxfduT0-nhq4mMoQCHaWMbhyJJKQkvGO59CYMpr0yUmrM-W5JZKdFR8uPcu3mYY1N3NohNsKlafWBaTSH0Q9LX9Wsa7dyIKYMu5ee8EYo64tYa5LlrE1Lzpl0rsWzrbUlmWLCCnR945YYhV-2RFeV_6Qa-0S_EBuZYj81chtv52kpsp3QjFOgZeylNXxIEud-cf-bLALlwVPMcgpFmWBQpQSI76XO4X0jFY_fL1KuEtKLMNcNCjsu8wRYoTM1LBjQotzmWBUc5jIYdqopVXjfwB3035Rv_esn2y_d-QF3pezVoeTyfg2qb8RzZD5csftqUAa10ZkbKgW3H-vlJtgWGDYEZs4Vb18dwRXMR28zzS9teus7enaCSRo8oyHjwKKPWclORsRy0piUDWPa4t0VHixC-hRGbC1V7DPD4jxjiNngytIe4KAUkxX4kobG2ghbYq50LJ-NM8YOm_M1UmCTQekUFPjYM0szgAFX4Ib84kpkM-2sdgWGP-hqHGOxVrnsxsiaI1ULnDcR2OvZKhgL_7xtsRXHlxLkZ8nX5omNMsEeAFnrdO05IQHKYTR77apfPg=w310-h291-no"
 ---
 
-**[특집 인터뷰]** *11명의 Women TechMakers 2019 장학생들을 대상으로 한 인터뷰 시리즈입니다. Women TechMakers는 전세계 테크 분야 여성들의 커뮤니티로 Google 의 후원을 받아 운영되고 있습니다. 매년 전 세계 여성 CS학생들을 대상으로 장학생을 선발하여 미래 과학기술자를 육성하는 장학프로그램을 주관합니다. 미래 연구자 및 엔지니어로서의 삶과 WTM 장학생이 되기까지의 여정을 함께 읽어보세요. (https://www.womentechmakers.com/)*
-
-
+**[특집 인터뷰]** _11명의 Women TechMakers 2019 장학생들을 대상으로 한 인터뷰 시리즈입니다. Women TechMakers는 전세계 테크 분야 여성들의 커뮤니티로 Google 의 후원을 받아 운영되고 있습니다. 매년 전 세계 여성 CS학생들을 대상으로 장학생을 선발하여 미래 과학기술자를 육성하는 장학프로그램을 주관합니다. 미래 연구자 및 엔지니어로서의 삶과 WTM 장학생이 되기까지의 여정을 함께 읽어보세요. (https://www.womentechmakers.com/)_
 
 ## <span style="color:SteelBlue ">개인적인 이야기 </span>
+
 <span style="color:RoyalBlue">**안녕하세요! 간단한 자기소개 부탁드려요.**</span>
 
-안녕하세요. 제 이름은 윤주연이고요, 현재 KAIST 전산학과에 6년째(…) 재학중이에요.  긴긴 학부 생활을 곧 끝내고 곧 석사를 이어서 하게 될 것 같아요. 손으로 하는 많은 일들을 좋아합니다. 게임도 좋아하고, 가끔 피아노를 치고, 짧은 글을 끄적대기도 해요. 혹시 궁금하다면 개인 블로그에도 들러 주시면… (https://greenmon.dev/blog) 대신 몸을 움직이는 일을 조금 귀찮아하는 것 같습니다. 운동을.. 해야하는데… (말잇못)
+안녕하세요. 제 이름은 윤주연이고요, 현재 KAIST 전산학과에 6년째(…) 재학중이에요. 긴긴 학부 생활을 곧 끝내고 곧 석사를 이어서 하게 될 것 같아요. 손으로 하는 많은 일들을 좋아합니다. 게임도 좋아하고, 가끔 피아노를 치고, 짧은 글을 끄적대기도 해요. 혹시 궁금하다면 개인 블로그에도 들러 주시면… (https://greenmon.dev/blog) 대신 몸을 움직이는 일을 조금 귀찮아하는 것 같습니다. 운동을.. 해야하는데… (말잇못)
 
 <span style="color:RoyalBlue">**아니… 어쩌다 6학년을… 학부 생활이 길었는데, 이유가 있나요?**</span>
 
@@ -45,8 +44,8 @@ image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-
 
 당장은 지금 진행중인 연구를.. 잘 해 보고 싶고, 언젠가 회사들을, 또는 개발 팀을 대상으로 자동화된 개발 프로세스를 설계하거나 도입할 수 있도록 도와주는 업무를 하고 싶어요. 그리고 꼭 커리어와 관련된 게 아니라면.. IT 분야의 칼럼이나 괜찮은 SF 소설을 써보고 싶은 다소 허황된 꿈도 있답니다.
 
-
 ## <span style="color:IndianRed ">Google WTM 장학생에 대하여… </span>
+
 <span style="color:green">**먼저 구글 WTM 장학생으로 선발돼서 활동하고 계신걸 축하드려요! 그런데 WTM은 어떻게 알게 되셨어요?**</span>
 
 예전에 방학 동안 이뤄졌던 \< 구글 여성 소프트웨어 캠프 \>에 지원했다가 떨어진 적이 있었어요(…) 그렇지만 그때 Connect with Google이라는 메일링 리스트에 가입하면서 올해 초에 WTM scholar를 모집한다는 메일을 받았습니다. 마침 작년 봄(2018)에 친구의 소개로 WTM에서 주최한 여성 개발자 행사에 참가한 적이 있었어요. 그때 행사에서 받은 인상과 합쳐져 보자마자 꼭 지원해 봐야겠다는 생각이 먼저 들었던 것 같아요.
@@ -73,18 +72,18 @@ image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-
 
 ![title](https://lh3.googleusercontent.com/UdvS4GUUbzOhUvo4OVaBCoIRszuIisPN_kLGw_rpqKLiaja0nSJrmLXcjnxTA288Wo1EQ_QK9spWAvsU9Rv-54BJB7O3pJl3B4isib_q328ab75zawaZl6fUCUugJMDXaJifdq-CApKIeM6JNkDLmkEya0k1-X0xLekiJbCRPdFm2txYyZvAAsmq4G5i4VNtwflaotPHBUyh28oayvACjYtvlPQ4e4kq9dXB7nXyf4F_I5Zq-wJ_3Y-DkW--nOP_TlL1McNK9KZYoH-OfQShpXY0UC0ZzVe7Y3aCyWIWeH_aGLjkRG_TlAjhbIhIFbyAkpeUB-wgUU0uTok7vZkfHdj4fJ6kzwiDBtKISXTbXU3Vk0Yph2Z-1nf014FENCr1rLYLo-mhgrBZoi8DE_NYHplaBDUKDCaagFNTxu-1bxNlex6yabWXkPBe95QEpCQp76guGvxeqpnden0fy4NEu4k2NCCmhQJn6nN682y3duH2W69edboSIRJTJ6XdvSuPABmuQyrwyoP3r69oWR0IutIL_4_63Lg38u_gJ5yk3xNNsXs9f_3AQYx4gYKi1niMukqfX5Vm1k5qnQsP_YF0pjnI4j2vFvDTx10J-nnyPy_F3a1MoOUtl6XbHSw_1q5OZXS_FSmVL6ONUjTVVJ-fxjavZQRGNUKKliPzh7cUuDNPOmgIv0Mvl6pd=w1506-h742-no)
 
-*leet code는 다양한 알고리즘 문제와 대회를 제공하는 사이트이다*
+_leet code는 다양한 알고리즘 문제와 대회를 제공하는 사이트이다_
 
 <span style="color:Salmon ">**어떤 사람들이 WTM에 지원할 자격이 될까요? 구글 장학생이라니… 되기 힘들진 않나요?**</span>
 
-저도 제가 자격이 된다고 생각해서 지원했다기보단, 어떻게 되든 일단 도전해 보자는 생각으로 부딪힌 거였어요! 지원을 하는 과정 자체에서도 취약계층을 위한 활동이 무엇이 있을지 고민할 수 있었고, 여성으로써 CS 분야에서 살아오면서 어떤 어려움이 있었는지 생각해 볼 수도 있었어요. 사실 지원서에 대한 결과가 늦게 나서 떨어졌나 보다.. 하고 미리 포기하고 있었는데,  지원하면서 그런 생각을 해봤던 것만으로도 충분하지 않나 하고 생각했었어요. (ㅈ.. 정말로 진심으로요!)
+저도 제가 자격이 된다고 생각해서 지원했다기보단, 어떻게 되든 일단 도전해 보자는 생각으로 부딪힌 거였어요! 지원을 하는 과정 자체에서도 취약계층을 위한 활동이 무엇이 있을지 고민할 수 있었고, 여성으로써 CS 분야에서 살아오면서 어떤 어려움이 있었는지 생각해 볼 수도 있었어요. 사실 지원서에 대한 결과가 늦게 나서 떨어졌나 보다.. 하고 미리 포기하고 있었는데, 지원하면서 그런 생각을 해봤던 것만으로도 충분하지 않나 하고 생각했었어요. (ㅈ.. 정말로 진심으로요!)
 
 <span style="color:Salmon ">**도전해서 결국 장학생이 되신 것 축하드려요! 장학생이 되고나서 여러 활동들을 할텐데, 인상깊은 활동이 있었나요?**</span>
 
 ‘bias busting’이라는, 우리가 무의식적으로 갖고 있던 다양한 종류의 편견을 명확히 인식하고 타파하는 법에 대한 강연이 있었어요. 알아차리기 싶은 우리 일상 속의 편견을 구글의 실제 리크루팅 과정 속에서 재현한 것이 있었는데, 기억에 오래 남네요.
 
-
 ## <span style="color:ForestGreen"> CS와 나, 나와 CS </span>
+
 <span style="color:DarkGreen "> **처음 CS에 관심을 가지시게 된 계기가 궁금해요**</span>
 
 어렸을 때 컴퓨터가 바이러스에 걸린 적이 있었어요. 갑자기 이상한 창이 뜨고 이름 모를 프로그램이 나타나는 것에 처음에는 화가 났지만, 이어서 호기심이 생겼던 것 같아요. 그때 해커스스쿨(hackerschool.org)이라는 사이트를 알게 되었고, 운영체제나 간단한 프로그래밍 지식에 대해 재미있게 설명한 만화를 보면서 컴퓨터 속 세계에 대한 동경을 가지게 되었어요.
@@ -95,7 +94,7 @@ image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-
 
 <span style="color:DarkGreen "> **CS전공하면서 특히 재미있던 과목이 있을 것 같아요**</span>
 
-저희 학교 학부 과정에는 \<프로그래밍의 이해\>라는 수업이 있는데, 필수 과목은 아니지만 프로그래밍 언어나 컴파일러 수업을 듣기 전에 기본을 쌓기 좋은 과목이라고 들어서 수강하게 됐어요. 이 수업은 \<Structure and Interpretation of Computer Programs\>, 또는 ‘마법사책’이라고 불리는 유명한 고전을 기반으로 짜여져 있어요. 그때  Lisp라는 언어를 처음 접했는데, 모든 문법이 중첩된 괄호로 이루어져 있는 형태에 적잖은 충격을 받았던 기억이 나요. 처음에는 대체 이런 걸 왜 배워야 하지? 라는 생각으로 시작했는데, 프로그램 자체가 언어에 관계없이 어떤 구조로 동작하는지를 조금은 다른 관점에서 바라볼 수 있게 되었어요. 프로그램을 단순한 절차의 나열로 생각했던 제게 생각을 환기할 수 있는 동기가 된 수업이에요. 수업이 끝나고 SICP 책을 다시 봐야겠다.. 고 굳게 다짐했던 기억이 나네요. 하하.
+저희 학교 학부 과정에는 \<프로그래밍의 이해\>라는 수업이 있는데, 필수 과목은 아니지만 프로그래밍 언어나 컴파일러 수업을 듣기 전에 기본을 쌓기 좋은 과목이라고 들어서 수강하게 됐어요. 이 수업은 \<Structure and Interpretation of Computer Programs\>, 또는 ‘마법사책’이라고 불리는 유명한 고전을 기반으로 짜여져 있어요. 그때 Lisp라는 언어를 처음 접했는데, 모든 문법이 중첩된 괄호로 이루어져 있는 형태에 적잖은 충격을 받았던 기억이 나요. 처음에는 대체 이런 걸 왜 배워야 하지? 라는 생각으로 시작했는데, 프로그램 자체가 언어에 관계없이 어떤 구조로 동작하는지를 조금은 다른 관점에서 바라볼 수 있게 되었어요. 프로그램을 단순한 절차의 나열로 생각했던 제게 생각을 환기할 수 있는 동기가 된 수업이에요. 수업이 끝나고 SICP 책을 다시 봐야겠다.. 고 굳게 다짐했던 기억이 나네요. 하하.
 
 <span style="color:DarkGreen "> **컴퓨터 프로그래머가 되고 싶으면 어떤 활동을 하면 좋나요? 도움이 되었던 활동을 소개해주세요.**</span>
 
@@ -118,6 +117,5 @@ image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-
 제가 어렸을 때 정보올림피아드에 한번 나가본 적 있었어요. 큰 강의실 모니터 앞에 앉아있는 수많은 학생들 중 저 혼자 여자라는 사실이 그때는 참 부담스러웠고, 그래서 더 잘하는 모습을 보여야 한다는 긴장감이 더해져 결국은 한 문제도 풀지 못했던 아픈 기억이 있어요.
 물론 어떤 이들은 실력, 그리고 준비 부족이라고 말할 수도 있을 거고 저도 오랫동안 애써 그렇게 생각하려고, ‘여성’이라는 핑계를 대지 않아야 한다고 생각했던 것 같아요. 하지만 점차 저와 같은 고민을 했던 친구들을 만나면서 그런 고민이 내가 잘못되어서가 아니란 걸 깨달았어요. 다르다는 것이 의식되지 않도록, 더이상 소수자가 되지 않도록 우리가 연대하고 더 많은 여성들을 테크 분야로 이끌어야 한다는 책임 의식도 조금이나마 깨닫게 되었고요.
 여러분들이 여성이기 때문에, 소수이기 때문에 불편하고 어려운 일이 생긴다면, 그건 결코 스스로의 잘못이 아니라는 걸 기억하고 혼자서 힘들어하지 않도록 해요.
-
 
 **각 장학생들에게 궁금한 점이 있으면 댓글, 장학생 개인 연락처 등을 통해 컨택할 수 있습니다.**
