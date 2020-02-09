@@ -3,7 +3,7 @@ date: 2019-11-20
 layout: post
 title: "카이스트 정신과 서재_#3 낭만적 연애와 그 후의 일상 "
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/DQIT745ffGaDohPJt0G0E9_8ma0B8T5DLKOnD1D6SLp6EpsXkfDhvOkIewarRQ4VnphcJE8ieUNax5rsCxyC0KmtRKTA0eecjD2d_JAXgyB-qVtOEl8HpJ8PoxqEMmOQOHXTAmNTfKi0gH_R0fCz6U7ZgpehKXTbWIXzga6H7QV_DyUbbPuhOHALG9XHnz9cO4OpA33tPS-PH95CMA51QyJDyThwaSfHzZRfdosMujGHcAEkQAEoof4m2nHUikdSwNyQ7RcyC2f16srFFE_NyCuIDpyKHAbSXCYa60fmWy7dKibgMqnQPQbfDr07vFag1K1NjPvuayQWrv9SaQkeC8lnW77kBxgOn-emXGvvRPFNvJ06W7mxc9sEwAdtRessAR38QqSx8qHOgd1qG-FJCOrAjHWW1X_JlI2NgY8hkd4nyNcBIbQfL0cyxb4CsSc8qbuawUrq1H1ZxIjvi9deinaBs4iJuN0Fys7JCLtVWO23cRlNoqtecHv8RAt-uBCbvc1_VJ93QBvpsTfaaVkHYlpuuc4zOx5Rf2OW0psK-xHPZYUfs_ZmkgQGbvy_5SkXlkrFDY2H8F8C_NAiz1WEXGskL8lbNCZUa9VuBdB9QahIhESGejg9KuFUVjAn1_Wf8OEUsLfse74hk7EpKaWjo0WHGAhQN559UF-EFnC0endKZ5VXKzz4xlf4=w480-h716-no"
 ---
