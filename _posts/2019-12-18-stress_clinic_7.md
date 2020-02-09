@@ -3,7 +3,7 @@ date: 2019-12-18
 layout: post
 title: "카이스트 정신과 서재_#7 나는 외롭다고 아무나 만나지 않는다"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/ZcXnk5g6lCqOK-XCNsVClUDEOR_fw6CcTsOY8EgLpZ_lOX-R2-zB1d9Bqo7iRUGl6rUzCaMe6p9oHPWxBpyhjsemuL5OzoYWbiahlrfFU4HoYxM9wFsZ0NPWiVcKRRCyiJ7XULNNc5wepgEMb5x_Mlg8cpcyuRfLp_nJNzRcdUWw1Hm-qjkonLN51C7Fy2tUbno14R8n8CVVeDufnGrzd-dVBcRs4I4_MvG1xAHWiUEYYCmQqDCk7axjaFwHU6_HUtfcm3zI9NHuwaHMqtinz6bMKH-V1XuoQgIarxkTEptGxfpWLieY1rQCboPpiG8JhQJDrR6fAesjLon8g9VP06nRpA90AxAqRK70-pOhkf8XdBXHcA24bc37QjMeVzni_CCcM_tKFFa3NlhtVNJlyZEaqIrdTbx4BwXMgZ2YlGm3shidJa1zwjJt1xloupBDbgZYCJH4wzAOg8U3ueSQVJHlBoVMYu5nyVyagcnfvvpV-8V0xapdteQ6G3gS0AHNn1qefVonfpnr_7svfT-gBKMrwdDdWQRRmGGZFvCkiBLr3DmBFZHYA-5ZcZTpSk7stTP4vaq_zSQGODVZrKgoPlHjWApPAo7tHgN-QJcPakOeKLAG5SL4rJNnxAdqoojhl6f0-5MjcBThxvO1DN2SmITHjdeaFKVmRfOPnAMTR7fne2Nj713oefR7=w800-h1177-no"
 ---
