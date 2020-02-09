@@ -3,7 +3,7 @@ date: 2019-12-04
 layout: post
 title: "카이스트 정신과 서재_#5 취향의 발견"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/_zacaHLkFHVvrqq6h5QNAn8yw59CXeOTCuJoqc0EiZmNOJZrP3L9p9tva8g16rLFoiFkVJamI9Abbq0lQWL5o6G1mUZqWfARCE2Em8wcdpuZkOwjgUlyz9kHSRjq5o-UJN2dKXv1fAysMEjKpkdliGx6FxzkNFjovTw1fdnbGjN-sPB1I6bHcdZvzKE_7D9fbAgvAvzIu1_8CyvbJFpbF90j9t7JwkY5Xzgdx4sVhXsOItKiTtcctKgmXnH_gL6o3um5qvhJzgqH68EiXhbhVBz7Xfbk6sPAtEk90wzaxxIv5ziWZl7DUsAX1x4qYTGf3gbNGgU4Nap0RwEaND6yiEE51Ds347UK3B-y7MCkAacYcGqz9yEkwLSp3UT1ev1GK62-yc9daLqX1OoJCuw9V4Wmnj4zVZUqnVY9MXt47A3uRzqxVdvDl0fwlt3gazJwQuFIDuLySgGjH9_4rPDursbR8b-XIZgpmXmdHJ4VKIrqFUbNyrN8hm07It-F4MJgjlKwIiKgTl2xdRyLNUN3Bvi_RFL_rQ8QGihkluycKE3jL97_PExhn9kE10HCMNzSy1lQemw_1ewNRcvsfnydAZqixiohD1tVQ3SgE7J4wVygdD6eQtlCEcp0hDZnY2P3pRmyRiV6Xg7pX4goHlhlNtRLLA3cnAqbrquU065oCIFPYh1Wh-1Homv8=w459-h672-no"
 ---
