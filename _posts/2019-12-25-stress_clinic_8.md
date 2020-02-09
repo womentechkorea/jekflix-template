@@ -3,7 +3,7 @@ date: 2019-12-25
 layout: post
 title: "카이스트 정신과 서재_#8 자존감 수업"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "http://blogfiles.naver.net/MjAxOTA1MzBfMzAw/MDAxNTU5MjA1NDQwODkw.SgrfFNafuAPLTWtTpA7lfCH61VzV32Z_5c2j4YD661Yg.aiav8nLkFkGqDYowws-1VtGrBraiirK5NQSSTTlkGC8g.JPEG.fm_factory12/%C0%DA%C1%B8%B0%A8%BC%F6%BE%F7.jpg"
 ---
