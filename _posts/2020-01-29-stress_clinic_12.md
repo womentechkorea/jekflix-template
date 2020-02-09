@@ -3,7 +3,7 @@ date: 2020-01-29
 layout: post
 title: "카이스트 정신과 서재_#12 오늘 내가 사는게 재미있는 이유"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2652F948593A85BB07"
 ---
