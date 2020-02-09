@@ -1,9 +1,9 @@
 ---
 date: 2019-11-17
 layout: post
-title: "[Interview] 3rd WTM scholar, Sujin"
+title: "[인터뷰 시리즈] 3번째 WTM 장학생, 강수진"
 subtitle: "Google WTM 장학생 #3, 강수진"
-tags: [WTM, scholarship, interview, internship, exchange_student]
+tags: [WTM 장학생, 인터뷰, 인턴, 동아리]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/7EKyz9Y2RgOsuGfY2Ce-KGNX2pP-nI-AelJnlyYlY7xeSfFsH6Hx26gLn1ozHhevp639Kvl1ddjjQsVsxqeEq6lPTYtdNaXLUGSsMOMJ3S6o4SrMf7V0qzP2faIrGPrxC0itRJGecyzYr4xcQyksMiq_Rep1dh5lART6ti2XO2cFP4ruZj8hFTh1WbDrrIiZE35Zrk0mMgsJTu5Er_KEbIlTsgTqLqp1kSbmJYSMLJhkNcH8UzgEUJMA3TtBd3FpqGWMM6HdtS5ZiplCMuUWLMmII9ZpbLPArXhDc-b0QCpbuopzO51ROpTgbAgmkiH0JglcXxKxhVpDKWUtNlGd1qq7Bym0qjh50OY8pHBOEAwmPK56sAchykovACoQr2fDsj8nwVuhdFf_sm5094hexfvyZrzS5nTAyKja-G9WUgtKWg-0-SwQ52K4AKcSvdwin1P8lhClg-AfIoNSBZN0DBCzgKq2K311ylo7aUZhDyftb1y2WN6kB6FIk-85dLIk-6otgnMBTHht2loWnSzrbOG7EMSpykciVkMfqbnDVgEq3J2Gfjm0htgEzQ9VUANUG47vrl2TbEWo0Pwb0n-bJrekTRRrMo94CkJqyEVBFcVxQiT1N6KPU0Afj2pcZ_1rZEd35oB32gZLaofRr4CaBOM88FASxUCzcKAzWVyWckeL7OYGapeVfSCyKpKLgubr3prLdBW0TzYhNxby2a8WtYEf3k81TxLzbSF1YXXd3N_nnEM=w927-h869-no"
 ---
