@@ -3,7 +3,7 @@ date: 2019-11-06
 layout: post
 title: "카이스트 정신과 서재_#1 아들러의 감정수업"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/fOhn7zIq-qModnRVTf7FCrwcdc5qXO2k0tRD8pRkCji3qBnW3auUl1Z0bY-pYZpFyBe0GQFjkg9tLJC-y-FOYHpVjzffZN4W8I4OWhaQzrkNbVwqF1mMOBLqLxpJmuBcLs7P9v0X4n7l6aPoCgF86e0hiFU9_T_spgLcvLM3kZjU8rA8LZGvkjDnz2zzP23BRLPQkE4mKa9Rfwh5hI3mdODToEkh54qtFXqDf-Uw-SNZN-plPQ2zI5BjvJdiHBEAgk9GZ-b2WAA6_b9IVtVwrbjXqjx69XPDgcbXIlGoumV9jhBqFalRLi_3hHwHvxdaQ-IkneVYB70ypPkt9DvG3Oi9VGhLwbtDCFZ-PAS4Gp3k60TLnvKEDtgbGu2RvTkvnf7Efwfca1LonpfK2Gl60fci7G7sLNa0_bgHV2OjK4Q6qILpTJepPwtmZcfqWsXs13CuhOUwLMlvlVndB0ve2N3ywl9DmTLByLKwmrnHB35xW08WszvZ5U3qp6XLwaEzAZFZc2rhV5PCnROvOup-iut8A0UpGB48_rH1W5vxZLh-WiJiensDamnkGjCe__FUAH5oiW7vNYKe7SLiquUaLOYo5e7BxodGBNn3w84jmra40XdXTSHrxfgZdLPlA7aBsfH7FQIseU1qrgFcllWNbcrqJ6Yo9zd6xS3JbUOCpjFKM7Zr1MMAbalZ=w810-h1200-no"
 ---
