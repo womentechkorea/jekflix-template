@@ -3,7 +3,7 @@ date: 2019-11-13
 layout: post
 title: "카이스트 정신과 서재_#2 죽고 싶은 사람은 없다"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/DJOPlngiVfwqaRIVrzNeSPzaVkXC_Gs7ZTNu3nqhIUTRuBxGsBopMCeOU0FrVOf1o_Ryj9ejhPgieA9ABe10EU0dV71wwyDVci87F3MR5wwQno0mAwW5-XV7JgAPYXnXFSGCcBJ1FY7rBckAoTCiKOvtrf_EoV8GdqSaD45-aQk9QJ993YdLxpWwzcAJuQBbsGvi0DUI8mZfHW4OJVtSDHBLIWKEeZOu6LzPZtWfl7nbHT5ovNCg9bMnTkCmeQchKakrKp-ayyGyQKdgnMHMCQYMWr9WHxq_AEpZyC9FKld61fsN335pO7MhP2wirRqlMW7pqMRa9x1NdtpAa91Jh-4LlEWx7aiLPbRqCPSZCpwKyIvfIwVgHdr25Mul2VhwQgvgZvFi553gb3ZrIw_DCVoaUL2yNhlSXqysV83iUrLNy78gS5v1AiGtNTDSm_gKH0vTZSP0L52USOmlrLnX6NlX2XDwDz2eHitloWEZ1d9z0OY-ZFL0a9F8vRgzAlQA7mzXkr4uDePDCFK7Nb3hJ6F4ZsWc4YhyygnRAX5c2OHho7CnGpQecB39T_12ap5EeiUbRYDVndbwp6pHNcyK9iNWA-IddmPgpmuUXecGOROv66dm6SwCTwO37Udiv3vKhh89JcZc0D1jBPlDic9qLi5HW0U-cgh-Vh6Ws9FOSfnciZGDMZLTWnew=w480-h712-no"
 ---
