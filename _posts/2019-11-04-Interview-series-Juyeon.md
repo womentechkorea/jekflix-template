@@ -1,8 +1,8 @@
 ---
 date: 2019-11-04
 layout: post
-title: "[Interview] 1st WTM scholar, Yoon Juyeon"
-subtitle: "Google WTM 장학생 #1, 윤주연"
+title: "[인터뷰 시리즈] 1번째 WTM 장학생, 윤주연"
+subtitle: "해커 지망생에서 CS 연구자의 꿈을 가지기까지"
 tags: [WTM 장학생, 인터뷰, 스타트업, 인턴, 연구]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/u1XPSIgdPBZlunDNn1nf7Ui4SHdL5DLx1QneR-11Z3as3wIseu7_SltcWjnc9Nh1mAQDWVHyuWLbBYYlVD5xBUnBJGZ8yxZvD6q8PqORZXRQNgOv_nnfq2f9Gdf_IbGifXgqPkxS9wfPRNC43YPTrlbMMSrbERJUH-9vruwzRftWMxfduT0-nhq4mMoQCHaWMbhyJJKQkvGO59CYMpr0yUmrM-W5JZKdFR8uPcu3mYY1N3NohNsKlafWBaTSH0Q9LX9Wsa7dyIKYMu5ee8EYo64tYa5LlrE1Lzpl0rsWzrbUlmWLCCnR945YYhV-2RFeV_6Qa-0S_EBuZYj81chtv52kpsp3QjFOgZeylNXxIEud-cf-bLALlwVPMcgpFmWBQpQSI76XO4X0jFY_fL1KuEtKLMNcNCjsu8wRYoTM1LBjQotzmWBUc5jIYdqopVXjfwB3035Rv_esn2y_d-QF3pezVoeTyfg2qb8RzZD5csftqUAa10ZkbKgW3H-vlJtgWGDYEZs4Vb18dwRXMR28zzS9teus7enaCSRo8oyHjwKKPWclORsRy0piUDWPa4t0VHixC-hRGbC1V7DPD4jxjiNngytIe4KAUkxX4kobG2ghbYq50LJ-NM8YOm_M1UmCTQekUFPjYM0szgAFX4Ib84kpkM-2sdgWGP-hqHGOxVrnsxsiaI1ULnDcR2OvZKhgL_7xtsRXHlxLkZ8nX5omNMsEeAFnrdO05IQHKYTR77apfPg=w310-h291-no"
@@ -104,7 +104,7 @@ _leet code는 다양한 알고리즘 문제와 대회를 제공하는 사이트�
 
 뭐니뭐니해도 프로그래머는 자신이 생각한 것들을 노트북 하나만 있으면 코드로 구현할 수 있다는 게 가장 큰 장점 아닐까요? 이상적인 이야기이긴 하지만 그런 생각을 자주 하면서 CS 분야에 있다는 것을 뿌듯하게 생각하려고 하는 중입니다..
 
-<span style="color:DarkGreen "> **장점만 있진 않을거같은데.. 단점은 뭐가 있을까요?**</span>
+<span style="color:DarkGreen "> **장점만 있진 않을 것 같은데.. 단점은 뭐가 있을까요?**</span>
 
 하루종일 모니터만 보고 키보드, 마우스와 씨름하는 시간이 많다보니 몸이 점점 안 좋아지는 것 같아요.. 정말 프로그래머는 운동을 꼭 함께 해야 하는 것 같습니다. 저는 못 하지만 여러분들은 꼭…
 
