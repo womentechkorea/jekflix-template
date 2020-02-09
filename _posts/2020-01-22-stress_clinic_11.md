@@ -3,7 +3,7 @@ date: 2020-01-22
 layout: post
 title: "카이스트 정신과 서재_#11 화성에서 온 남자 금성에서 온 여자"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "http://image.yes24.com/momo/TopCate1240/MidCate009/123983839.jpg"
 ---
