@@ -1,9 +1,9 @@
 ---
 date: 2020-01-19
 layout: post
-title: "[Interview] 10th WTM scholar, Doyeon"
+title: "[인터뷰 시리즈] 10번째 WTM 장학생, 임도연"
 subtitle: "Google WTM 장학생 #10, 임도연"
-tags: [WTM, WTM장학생, 컴공전과, 생명과학, 전자공학]
+tags: [WTM, WTM 장학생, 컴공전과, 생명과학, 전자공학]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/FvOhS85abF0rpBp28AU41CcAqaLN1cuwnSVLwvPLG0DG9qsb51hsQBI1dlwiWpUKq0ya2tXvUV8UhJDmwOeqSsW1OLBl1zmoFpD-geon3rPazoG1G8OMoU-hguzSmNkS311yuVReE7Kxpvd33Fbh1ZuuNUR_PpYQm98QGVtaFazmnmPPqBBzMltHjjgiHqOF1VOaZGOvosrJOMcmQBjtsngnhTuhqgeWfUkFl_9nBdi4JUamYO9H0cBhCV3cQtEEDDduA3V4zKq8qBbW1xjU9vcZjPQhbSv9pQWCk2J69tb8cRNS2UyN5DvSsZKh1YOr8-z_ysTEu_Bo2VSllJEd3rtmVYZx33_4peZ9HVI2NJqgvo5nX7cpkKXAcxilJnKyE7mYwwTop4cjMMyc_T1uy72zYPh6K6p2WxfPphEokVH2-S40ylCq3M4Gq0ndQNJS0VVkfcu6CcRjJMfZ86dgXxw50pXSUGFV9KTqobqm9DbKn3zjlXl1qLGB-CKaYZA7QeFAYtTWjt5I3tyFDWGtZ_-2Hm__2LzY2Ad0SAuP2oEP_WgxjBJxVDNM8ftSTEVSjjR9gg8kLBbEbSWxx3aLFxAdz7ATX6VapnHpkPWXRGx39QFOsf_hDMVnmT3qHlzKVhFs7T_tt9Yo4bd2C1YZHRf5TaJiCo5mvQZhyoz0gVyiPk70TAGQ2H8woyF_92cWPwC26JTWkTufFAD2VRfsQqO_luHHKxOgZ6TDl6ztOMFMdgs=w357-h335-no"
 ---
