@@ -3,7 +3,7 @@ date: 2020-01-26
 layout: post
 title: "[Interview] 11th WTM scholar, Min A"
 subtitle: "Google WTM 장학생 #11, 김민아"
-tags: [WTM, scholarship, interview, research intern, HCI]
+tags: [WTM 장학생, HCI 연구, 코딩]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/P-bYXShIWU-HbBpeZXMmevivv2ICRibsPoZgYuCpsWG_5SM-jsDH3uWLp0PYafeXpvsQZ8SoFk8APFtcIo_kgoKT6UTwDYJDhYxS61adx8Ph_69vLzBzSGHHfL7zfcS5tz5MoP3x-ivpiHAwOK6H4-X-FmrTbl-9LCC4o0a6dm7HwUr50Erw4SZTyzhzTQ8XA0X8ANHfjBAHPITx4bPdyWGmHs62MfzKsAakUa4adsjeQ5JkHlSstP2lzCsnvvwwJXS0bv0KVyWPFB37yc-U5F_MYQGnAPzFEU4lIBVhxvQ_467CfWfZ491ArlXcsjBjQzCI6McRll_TMFNhwUOvEBeXW0XGr4R0gu5aTLcj050wIqONTmlQvVrh7k7Ou2jvCErkSy-Ro0WzUOqY6YHZsk1mvqlLgiGJiTG0u2jt_2GkNo_UvRDKpUNKotU0ORdMoOnErBiR4369zA8nui0nXMWmcV2PnMSFhsAB-woE2suN0Xge_su4dIz9co2b5v9xVejXEYvdRidiF-llCVUuGqySkno8ALmS8cGstrFlT2XAtkOTa48jMbrVQOwAi0h17GzNeUOYBIE2tXIzNx9sR_A85FiDcM83IUqd4_aa6dAm4-SXwyJboKF87wPm78HL6LlqCCyD0-nfDS0rqJedVNldym71cTNXxkx7Cja7eIhz2R_ekQzObx0TyY2jw1ubBWmnOXxgRgB7Ac6ZfvTh4ZUvIEljtLbT6zNdpwf9nWwJNK0=w927-h869-no"
 ---
