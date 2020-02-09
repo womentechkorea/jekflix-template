@@ -1,9 +1,8 @@
 # Site Settings
-name: Awesome WomenTechmakers
-title: WomenTechmakers Korea 2019
+name: Women Techmakers Scholar Korea
+title: Korea WTM Scholars Blog
 description:
-  - 우먼테크메이커스 장학생들이 자율적으로 운영하는 웹 사이트입니다.
-  - Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+  - 우먼테크메이커스(Women Techmakers) 장학생들이 자율적으로 운영하는 블로그입니다.
 tags:
   - blog
   - womentechmakers
@@ -18,13 +17,12 @@ paginate: 12
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: womentechkorea
+github_username: wtmscholar-kr
 facebook_username:
 twitter_username:
 instagram_username:
 linkedin_username:
 medium_username:
-
 
 # Theme Settings
 # themeColor: "#ff0a16"
@@ -41,7 +39,6 @@ show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: false
 two_columns_layout: false
-
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -82,14 +79,15 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: [
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
+exclude:
+  [
+    "package.json",
+    "package-lock.json",
+    "src",
+    "node_modules",
+    "initpost.sh",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "README.md",
+  ]
