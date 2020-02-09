@@ -3,7 +3,7 @@ date: 2020-01-12
 layout: post
 title: "카이스트 정신과 서재_#10 스탠퍼드식 최고의 수면법"
 subtitle: "우울증 극복 독서록"
-tags: [stress, depression, book_review, psychology]
+tags: [카이스트 정신과 서재, 스트레스, 우울증, 북리뷰, 심리학]
 author: doyeon_lim
 image: "http://image.yes24.com/momo/TopCate0001/kepub/X_783265.jpg"
 ---
