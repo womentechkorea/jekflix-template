@@ -11,6 +11,8 @@ image: "https://lh3.googleusercontent.com/hMN7a5QDVxXW3sF2Lh1lf9f4lvLh-BPRSjgCg-
 **[특집 인터뷰]** *11명의 Women TechMakers 2019 장학생들을 대상으로 한 인터뷰 시리즈입니다. Women TechMakers는 전세계 테크 분야 여성들의 커뮤니티로 Google 의 후원을 받아 운영되고 있습니다. 매년 전 세계 여성 CS학생들을 대상으로 장학생을 선발하여 미래 과학기술자를 육성하는 장학프로그램을 주관합니다. 미래 연구자 및 엔지니어로서의 삶과 WTM 장학생이 되기까지의 여정을 함께 읽어보세요. (https://www.womentechmakers.com/)*
 
 
+**WTM장학생 프로그램은 모집여부나 프로그램의 구성이 매년 달라질 수 있습니다.**
+
 
 ## <span style="color:SteelBlue "> 개인적인 이야기 </span>
 <span style="color:RoyalBlue"> **안녕하세요! 간단한 자기소개 부탁드려요.** </span>
