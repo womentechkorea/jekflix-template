@@ -1,9 +1,9 @@
 ---
 date: 2020-01-12
 layout: post
-title: "[Interview] 9th WTM scholar, Jiwoon"
+title: "[인터뷰 시리즈] 9번째 WTM 장학생, 김지운"
 subtitle: "Google WTM 장학생 #9, 김지운"
-tags: [WTM, scholarship, interview, job, major study change, international studies, self-education]
+tags: [WTM, WTM 장학생, 비전공생, 문과출신, 개발자 취업, 오픈 소스 소프트웨어]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/Lh2pXh0LbbrIYCr16b8QLb0YOjFdP9mKLNs3FVlcqIBMTVQaqWXsOmpIDqH4ROKPI-WzTbiUcY6cW84wBRC2HuPPEb1qdFDghns2265AMaHQNokrdVO0v1ajuQ7tS8U-9SVYgqUBaZCOOS6Gaf4JLbDgpXEVHRUA7ZxUkM6f2uuRWAqtnfknWC9E6Ps7w6zCJkG2wiFnBORyq1-DydM_tlI8MwN4bMuBkXXdBhe64enLmCovvECuz3TTmzkH4CpewugfViz0Q3rJF_ZbjwjcFSeCtRkOjR9YP7zACLcTSRxEZkCtVw1EN_u-F-62NnjpCif0KkvRSiF1eiSAgd9uOQylBStReDl3tYvDBCmtBp1wO3rSPCrU8IdkJOIDZFl_rruS0xa0gXdvBdV7rxL0KqztWOoPWrz7TvyjSH8baVMcvygPkdRv6iturblMCboG-MOZ-LtOChI26ZmH5l8g4eKacTsaou5rM_MH6kPH94DfaQi15tE_M2udm6UDl-Bd_G7sNUtYYJgVCbJOu2seoGSCRU_EfGSH09unQnwH6ZfvcmG7MA4F15Z7ClNK2PeNopN93osTnZZ_YoLKCbTIxJ6ClSRgQ0u9Kdt4jSDZEwT0uI2orenavm7139Esi7V-vvJJHB8IhQvejPmNEfmWIQqOXVye5HRBK_KPDW0CpnUrfYx44NKA2lCT8B8lDnUp_Itvs6S7m4HMZOeybC5PMtZFvRO6u-q7dvNwW-rMaTIPpRM=w927-h869-no"
 ---
