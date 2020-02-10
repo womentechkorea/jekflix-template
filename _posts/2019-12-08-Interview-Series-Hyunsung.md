@@ -1,9 +1,9 @@
 ---
 date: 2019-12-08
 layout: post
-title: "[Interview] 6th WTM scholar, Hyunsung"
+title: "[인터뷰 시리즈] 6번째 WTM 장학생, 조현성"
 subtitle: "Google WTM 장학생 #6, 조현성"
-tags: [WTM, scholarship, interview, mobile computing, master degree]
+tags: [WTM 장학생, 모바일 컴퓨팅, HCI, 연구, 석사과정]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/z_6ORxtqY35yfEa3iua822nFbdxgC2soNrNt-oX9R4M26f4Aw8t4oK6GrLfiPDTpH_FTwjJgy2iTwtRHMxRqJXfHAOkWGS041AiVkW2DKbr6E5t8lQ6f5yrS6NLGeettRmMd4vgJzgCyAwcfqdpRk3mZpIucytyrnF9pspg775DbeiCKbvEbBdiHF8K05gr5qI8Ibp4dXovDahSfJHBcK8pIlkXhUudsKWOExYMWjXd2NBWIclKDgdy_CUKqZol0afHh7Umtnd90mLPQiyTleRZDzwScZIm_HdXn2MQ0JbjagdaGh8r98YOM0-ZboceZnkY4QrGMbOmCUBM7mtvjWlkeOvSSZi3PGRHnaYeXVFIeJXC-xBiyqZg14o-mwEzFUstUy2IH0xGZZTUglmnXFtgk6q5XRiTMvwL6NQLLWXoFTysAHufbvbU7PFLm35_ymu4TAxWvArstmYoWs8QqbISLFTMaOlJT5T2qPY74DwoUC9-OV0Ty-RQnww0ccB89eUASt1zFIx2wdH-bgz0zpGDvWV_Hp51BZNp1hmfzREedhWIU40VUfGroUlk4xsq-fhPOCtft-2MEgYE3qGBHoXF7ikVtVoFC0er3obMFdroIGkSkHz3CXwjwIBpiuiVW5QIrWJnwYTcMMIH1KaR8n00gthNGtSYgmgq0jMNh6s2doCzMlVnmUAUVjSdEXpIrnAnt3mcX9g6U01UhWrnz-7lVvCgGZ4dvwm8qvGrwbDNI8Ug=w927-h869-no"
 ---
