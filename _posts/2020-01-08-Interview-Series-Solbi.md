@@ -1,9 +1,9 @@
 ---
 date: 2020-01-08
 layout: post
-title: "[Interview] 8th WTM scholar, Solbi"
+title: "[인터뷰 시리즈] 8번째 WTM 장학생, 최솔비"
 subtitle: "Google WTM 장학생 #8, 최솔비"
-tags: [WTM, scholarship, interview, job, major study change]
+tags: [WTM, WTM 장학생, 취업, IT취업]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/clZ4NyMIRBaOzjPUF3NhEZ79jUomKPZmS88Prccwxc7GptZTuVuXqwcvDQnQJh8Tj-uxP2XK2dq9DUNKnfyE5RlSSdB2C0IvOXs7QkjZBB_w8qcUJ1rgusrFNHHWQQRpWRnKnQdhaci1ycZ_gkV4KDHoWb9tSsVy-GZDDvSnDBLd_Ux00wPuNh4mvIYhOTKB_cegs5lautipaVxSuu9Pb7iIEk0IuexsR8dFuK6vddmKFsV0rpFkaka5l9Bw5VJFKLWqiK2f6AZsgDQrmjtR3ROgxg9HZqTP667q4NDe267Wsk-bsN8QL0_bsRvQbY3BGtoJC0lfi0IEBP9c_SITrQWs085vddWN7CdSb-otUEvVcktteiMGaMsrnMBakYjjxeTBFn36sTc1Pr_1BckDL_kHXDBtLBchzN8Efw7dhR5fStVmsJwzjWzNAnHEgmfOxcsljamjVFyUyOywUgxE2SiiLFNkJEkAtjpasFF599jbZaMRGBoTElBBD3wu7Tw9707p9o_4ztsOyv4P_owt5TUhZKuktgOH-k5kgun5XQp71visi5Jtg5r5tGtDiuhYEE1-liI-iE6-Iki9MSGHg5IvqBn6sjtjgTAFXHaxF-Je1_0J9nDLXi5HkKRZnz_SV6vWKEPt4Vm4-ItsNVETuEKji44T0DdPkAz6pLkuNcve4ot-wCIDfLmh5I2FKVlIosAMTyhzDLlinH0FRCn-K5yGEU3gI7etIxtrsbgF6nEAb1Q=w369-h346-no"
 ---
@@ -78,7 +78,7 @@ image: "https://lh3.googleusercontent.com/clZ4NyMIRBaOzjPUF3NhEZ79jUomKPZmS88Prc
 
 <span style="color:DarkGreen "> **컴퓨터 프로그래머가 되려면 고등학교, 대학교, 대학원에서 어떤 활동들을 하면 좋을까요? 동아리? 인턴? CS분야에 도움이 되었던 활동을 한가지 소개해주세요!**</span>
 
-  인턴이요! 진학과 취업을 두고 고민하는 후배들이 있다면 저는 기업 인턴과 연구실 인턴을 둘 다 해보기를 추천하는 편이에요. 저 또한 3학년 끝날 무렵까지만 해도 진학과 취업 사이에서 엄청 고민하고 혼란스러웠거든요. 저 같은 경우는 최근 일 년 사이에 여러 경험을 해보면서 자연스럽게 답이 나왔어요. 그 전에 고민하던 게 민망할 정도로 명확하게요. 인턴도 비록 정규직, 석박사생의 생활과 비교하면 맛보기에 불과하겠지만, 맛보기도 해보지 않고 고민하는 것은 상상하면서 고민하는 거잖아요. 시간과 체력이 허락하는 한 다양한 경험을 해보셨으면 좋겠어요. 
+  인턴이요! 진학과 취업을 두고 고민하는 후배들이 있다면 저는 기업 인턴과 연구실 인턴을 둘 다 해보기를 추천하는 편이에요. 저도 진학과 취업 사이에서 고민했었는데 최근 일 년 사이에 여러 경험을 해보면서 자연스럽게 답이 나왔어요. 시간과 체력이 허락하는 한 다양한 경험을 해보셨으면 좋겠어요. 
  
  또, 해외 IT 기업을 목표로 하신다면 알고리즘과 영어를 꾸준히 하실 것을 추천드려요.
 
@@ -88,7 +88,7 @@ image: "https://lh3.googleusercontent.com/clZ4NyMIRBaOzjPUF3NhEZ79jUomKPZmS88Prc
 
 <span style="color:DarkGreen "> **그럼 혹시... CS가 너무 좋아서 컴퓨터만 하시는 건 아니신가요..? 다른 비 CS 활동들 중에 후배들에게 추천해주고 싶은게 있으신가요?**</span>
 
-   요즘 살기 위해서 운동을 다시 시작했어요. 원래 근력운동을 꾸준히 하다가 최근 2년간 너무 바빠서 쉬었는데 급격히 체력이 떨어져서 힘들더라구요. 만성피로를 극복해 보려고 다시 PT를 시작했어요… 저는 집중할 때 자세가 좋지 않아서 어깨가 자주 아픈 편인데 근력 운동과 스트레칭을 하면 악화되는 걸 막을 수 있어요.  
+   요즘 살기 위해서 운동을 다시 시작했어요. 원래 근력운동을 꾸준히 하다가 최근 2년간 너무 바빠서 쉬었는데 급격히 체력이 떨어져서 힘들더라구요. 이번에는 요가를 선택해봤어요. 저는 집중할 때 자세가 좋지 않아서 어깨가 자주 아픈 편인데 스트레칭을 통해 악화되는 걸 막을 수 있어요.  
  
  운동 말고는 피아노 치는 걸 좋아해요. 머리가 복잡하거나 우울할 때 치면 기분전환이 돼요. 이 것도 최근에는 바빠서 잘 못했어요. 이번에 회사 근처에 새로 집을 구했는데 아파트 상가에 피아노 학원이 있더라구요. 저는 죽기 전에 완주하고 싶은 곡 버킷리스트가 있는데 이번 기회에 레슨의 도움을 받아 도전해 보려구요.
 
