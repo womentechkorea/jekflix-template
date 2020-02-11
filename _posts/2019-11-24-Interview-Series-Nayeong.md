@@ -3,7 +3,7 @@ date: 2019-11-24
 layout: post
 title: "[인터뷰 시리즈] 4번째 WTM 장학생, 김나영"
 subtitle: "Google WTM 장학생 #4, 김나영"
-tags: [WTM, scholarship, interview, mathematics, dual major]
+tags: [WTM, WTM 장학생, 수학, 복수전공, 컴퓨터비전]
 author: doyeon_lim
 image: "https://lh3.googleusercontent.com/sxGfuXHEzpJRdQTjy_p0nRWjwP8d01mSpe7-7pWhEoWpB_pOVFMoOmUZQd-r3ijP9TtzvpYJ51kixf3u1dYwgda4xB5WHYe94BVO2pl_PfqWu4AvdASepoOTuIInMrE9PIfXcfkGWulTs0jV4KjZoZUDVeZY0ToMPy43Y-SLg5bK8XNNTjwuq71eR874TQzXGqc0kGuoZrGp7tEghIWKlDe_h-L-w14xyH1Ab4hgPZW7dGZ5yY0myh0nrdoknJxmasgUXOHABJnxYkSgZRr0LjxcR9Q0UEEMs4531gL3YCHrYvqCdKhCrBJLV83RsY61Ib95cOHHJ7rtad1S5NcINo0jGoVpGPlr8Xxk2AMme1D4N_9IOY96vl09AOnrkG3RZsN33-mtC2As3iTVFc8pdAGhbzh2e0XDTuMYpUz9pc_F_goJKNiLhLRDOALTXoQac2XNdBLcK-hLNk4crMg1WZzqkS5Si2bsHPLhGDfg59jFxvydfnMBurzi19UCpze1RS-cZ7L-rKn_B1TT73TU9zy48CPrc5nG8yJFLIblcNlTVSaBxT7wFyoNI9hrDPF9BjVS4tQbEhKOj4XuYJiLc-_17qRAsfMfgu17o6pc5BO46VJ1t1DGYN9SiMXxM54F7XlnX16slQB88Ow3YmdjxYpBy-VY5qlRgwJbsyPQbKJIhR6ekrfdAUfZ4zSnLUXISFcstrLCTtRZUavChd_YqJLW4yWs8v0IB5dzaicszB7HIFk=w927-h869-no"
 ---
