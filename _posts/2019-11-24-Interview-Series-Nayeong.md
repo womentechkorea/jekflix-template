@@ -1,7 +1,7 @@
 ---
 date: 2019-11-24
 layout: post
-title: "[Interview] 4th WTM scholar, Nayeong"
+title: "[인터뷰 시리즈] 4번째 WTM 장학생, 김나영"
 subtitle: "Google WTM 장학생 #4, 김나영"
 tags: [WTM, scholarship, interview, mathematics, dual major]
 author: doyeon_lim
